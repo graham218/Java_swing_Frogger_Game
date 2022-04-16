@@ -5,7 +5,7 @@ Typical Frogger game written in Java (Pepe the Frogger)
 
 __Clone the project first__
 ```
-git clone https://github.com/graham218/Java_swing_Frogger_Game
+git clone https://github.com/graham218/Java_swing_Frogger_Game.git
 ```
 
 __Then move to the project directory and run javac, java__
